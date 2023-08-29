@@ -5,7 +5,7 @@
 **Fortran Installation on Fedora**
 `sudo dnf install gcc-gfortran` 
 
-**Test Commands **
+**Test Commands**
 `man gfortran`
 `gfortran --version`
 
